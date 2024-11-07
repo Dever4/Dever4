@@ -2,7 +2,7 @@
   <img src="https://your-image-url-here.com/header-image.png" alt="Your Name - AI & Web Developer" width="100%">
 </div>
 
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h1 align="center">👋 Hi, I'm Isaac Odeimor</h1>
 <h3 align="center">A passionate Computer Science student specializing in AI and Web Development</h3>
 
 <p align="center">
